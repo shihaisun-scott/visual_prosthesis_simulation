@@ -1,1 +1,1 @@
-# visual_prosthesis_simulation
+# Visual prosthesis simulation
