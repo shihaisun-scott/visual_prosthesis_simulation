@@ -26,5 +26,5 @@ python figure3_from_file.py
 ```
 
 Outputs:
-figure3_from_file_10x10.pdf/.png
-figure3_from_file_50x50.pdf/.png
+figure3_from_file_10x10
+figure3_from_file_50x50
