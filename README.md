@@ -13,3 +13,18 @@ samples it on an electrode grid, and renders panels for different array sizes (e
 ## Install
 ```bash
 pip install -r requirements.txt
+```
+
+## Run
+Put an input image in the repo (or use assets/example_input.png), then edit the script:
+- INPUT_PATH
+- invert=True/False depending on whether your strokes are light-on-dark
+
+Run:
+```bash
+python figure3_from_file.py
+```
+
+Outputs:
+figure3_from_file_10x10.pdf/.png
+figure3_from_file_50x50.pdf/.png
